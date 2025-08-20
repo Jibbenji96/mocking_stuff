@@ -1,5 +1,4 @@
 /venv/
 tests/__pycache__/
-crafting_mocks/.pytest_cache/
-/.pytest_cache/
-/__pycache__/
+**/.pytest_cache/
+**/__pycache__/
